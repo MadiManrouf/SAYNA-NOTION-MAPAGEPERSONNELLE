@@ -9,4 +9,5 @@ Lié des pages entres elles
 Créer un calendrier d'évènement
 faire une automatisation via un bouton
 Insérer des fichiers externe comme un tableau
+Convertir un fichier xls en csv
 J'ai aussi pu lier mon fichié Notion à un sondage créer via Tally
